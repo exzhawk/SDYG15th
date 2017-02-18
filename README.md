@@ -1,6 +1,8 @@
 # 圣地亚哥十五周目喵
 ## change log
-
+#### =======2017.02.18========
+> MOD更变
+> >++ MobiusCore (the dependency of OPIS)
 #### =======2017.02.16========
 > 服务器正式开放啦！
 > 
@@ -12,4 +14,4 @@
 > > 关掉TIC关于死亡保留饥饿的选项
 > 
 > MOD更变
-> > + ForgeEssentials
+> >++ ForgeEssentials
