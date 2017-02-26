@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 18-1-2017 (Server time)
+# Generated: 26-1-2017 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft Coder Pack;9.05;http://mcp.ocean-labs.de/
@@ -98,6 +98,7 @@ NEI Addons: Forestry;1.12.14.40;http://bdew.net/neiaddons/
 NEI Addons: Crafting Tables;1.12.14.40;http://bdew.net/neiaddons/
 NEI Addons: Ex Nihilo;1.12.14.40;http://bdew.net/neiaddons/
 NEI Integration;1.1.2;
+No Mob Spawning on Trees;1.2.0-mc1.7.10;www.mmyzd.com
 Omni Ocular;1.7.10-1.0build103;http://exz.me
 OpenMods;0.9.1;http://openmods.info/
 OpenBlocks;1.5.1;http://www.openperipheral.info

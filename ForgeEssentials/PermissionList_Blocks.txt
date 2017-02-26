@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 18.02 21:02 ------------ \\#
-#// ----------- Total amount: 24556 --------- \\#
+#// --------------- 26.02 10:03 ------------ \\#
+#// ----------- Total amount: 24557 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                             # (default: true) Allow breaking blocks
 fe.protection.break.AWWayofTime.AlchemicalWizardrybloodRune.*                                     # (default: true) BREAK tile.bloodRune.name

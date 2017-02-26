@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 18.02 21:02 ------------ \\#
-#// ----------- Total amount: 24556 --------- \\#
+#// --------------- 26.02 10:03 ------------ \\#
+#// ----------- Total amount: 24557 --------- \\#
 #// ---------------------------------------- \\#
 command./bloodmagic                                                                               # (OP only: true) 
 command./calc                                                                                     # (default: true) 
@@ -97,6 +97,7 @@ command.modularlog                                                              
 command.morpheus                                                                                  # (OP only: true) 
 command.nearinv                                                                                   # (OP only: true) 
 command.netstat                                                                                   # (default: true) 
+command.nmsot                                                                                     # (OP only: true) 
 command.none                                                                                      # (default: true) 
 command.ob_inventory                                                                              # (OP only: true) 
 command.oc_debugNanomachines                                                                      # (OP only: true) 
@@ -1156,7 +1157,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                                               # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                                              # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                                               # (OP only: true) Allows to send chat messages
-fe.remote.command                                                                                 # (OP only: true) Allows to run commands remotely
+fe.remote.command                                                                                 # (default: true) Allows to run commands remotely
 fe.remote.control                                                                                 # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                                     # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                                          # (OP only: true) Allows to change permissions

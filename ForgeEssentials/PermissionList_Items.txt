@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 18.02 21:02 ------------ \\#
-#// ----------- Total amount: 24556 --------- \\#
+#// --------------- 26.02 10:03 ------------ \\#
+#// ----------- Total amount: 24557 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                             # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.AWWayofTime.activationCrystal.*                                               # (default: true) CRAFT Weak Activation Crystal
