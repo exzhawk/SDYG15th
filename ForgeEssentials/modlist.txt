@@ -1,0 +1,139 @@
+# --- ModList ---
+# Generated: 18-1-2017 (Server time)
+# Change the location of this file in main.cfg
+
+Minecraft Coder Pack;9.05;http://mcp.ocean-labs.de/
+Forge Mod Loader;7.10.99.99;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;10.13.4.1614;http://MinecraftForge.net/forum/index.php/topic,5.0.html
+Applied Energistics 2 Core;rv3-beta-6;http://ae2.ae-mod.info
+CodeChicken Core;1.0.7.47;http://www.minecraftforum.net/topic/909223
+MobiusCore;1.2.5;profmobius.blogspot.com
+Not Enough Items;1.0.5.120;http://www.minecraftforum.net/topic/909223
+Omni Ocular Core;1.0;http://exz.me
+OpenComputers (Core);1.6.1.11;http://oc.cil.li/
+PotionExtensionCore;1.7.10-1.1.0;http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6672
+Thaumic Energistics Core;1.0.0.1;http://minecraft.curseforge.com/projects/thaumic-energistics
+Thaumic Tinkerer Core;0.1;
+Backpacks!;3.1.3;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291844-backpacks-by-brad16840
+OpenModsCore;0.9.1;http://openmods.info/
+CoFH ASM;000;
+DragonAPI ASM Data Initialization;0;
+FastCraft;1.23;http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
+NonUpdate;1.0;
+Applied Energistics 2;rv3-beta-6;http://ae2.ae-mod.info
+BD Lib;1.9.4.109;bdew.net/mods/
+AE2 Stuff;0.5.0.56;bdew.net
+Another One Bites The Dust: Berry Bushes;1.0.6;
+CoFH Core;1.7.10R3.1.3;http://www.teamcofh.com
+BuildCraft;7.1.20;http://www.mod-buildcraft.com/
+Baubles;1.0.1.10;http://www.minecraftforum.net/topic/2535073-baubles
+Thaumcraft;4.2.3.5;http://www.minecraftforum.net/topic/2011841-thaumcraft
+IndustrialCraft 2;2.2.827-experimental;http://www.industrial-craft.net
+Railcraft;9.12.2.0;http://www.railcraft.info/releases/
+Immersive Engineering;0.7.7;
+Arcane Engineering;0.2.7;
+Moving World;1.7.10-1.8.1;
+Archimedes' Ships Plus;1.7.10-1.8.1;http://www.minecraftforum.net/topic/1857899-archimedes-ships
+Armourer's Workshop;1.7.10-0.42.5;https://github.com/RiskyKen/Armourers-Workshop
+Plushie Wrapper;0.0.0;
+Waila;1.5.10;
+Automagy;0.28.2;
+BambooMod;Minecraft@MC_VERSION@ var@VERSION@;http://forum.minecraftuser.jp/viewtopic.php?f=13&t=172
+Better Achievements;0.1.0;https://github.com/way2muchnoise/BetterAchievements
+Better Builder's Wands;0.8.1;
+BiblioCraft;1.11.5;http://www.bibliocraftmod.com
+Blood Magic: Alchemical Wizardry;v1.3.3;http://www.minecraftforum.net/topic/1899223-
+Brandon's Core;1.0.0.12;http://minecraft.curseforge.com/projects/brandons-core
+BC Robotics;7.1.20;http://www.mod-buildcraft.com/
+BC Factory;7.1.20;http://www.mod-buildcraft.com/
+BC Transport;7.1.20;http://www.mod-buildcraft.com/
+BC Energy;7.1.20;http://www.mod-buildcraft.com/
+BC Silicon;7.1.20;http://www.mod-buildcraft.com/
+BC Builders;7.1.20;http://www.mod-buildcraft.com/
+Hardcore Ender Expansion;1.8.6;https://hee.chylex.com
+Forestry for Minecraft;4.2.16.64;http://forestry.sengir.net/wiki/index.php?n=Main.Downloads
+BuildCraft Compat;7.1.6;http://www.mod-buildcraft.com/
+Forge Multipart;1.2.0.345;https://github.com/Chicken-Bones/ForgeMultipart
+SonarCore;1.1.3;http://mods.curse.com/mc-mods/minecraft/239418-sonar-core
+Calculator;1.9.11;http://minecraft.curseforge.com/mc-mods/225104-calculator/files/latest
+Carpenter's Blocks;3.3.8.1;www.carpentersblocks.com
+ChickenChunks;1.3.4.19;http://www.minecraftforum.net/topic/909223
+Crafting Tweaks;1.0.82;
+Mekanism;9.1.0;
+DefenseTech;1.0.1;
+Draconic Evolution;1.0.2h;http://www.brandon3055.com/
+Extra Utilities;1.2.12;
+Mantle;1.7.10-0.3.2.jenkins191;https://github.com/SlimeKnights/Mantle
+Tinkers' Construct;1.7.10-1.8.8.build988;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct
+DragonAPI;1.0;http://server.techjargaming.com/Reika/versions
+DummyCore;1.13;
+Electrical Age;@VERSION@;https://github.com/Electrical-Age/ElectricalAge/releases
+RotaryCraft;1.0;http://server.techjargaming.com/Reika/versions
+ElectriCraft;1.0;http://server.techjargaming.com/Reika/versions
+EnderCore;1.7.10-0.2.0.39_beta;http://ci.tterrag.com/job/EnderCore
+EnderStorage;1.4.7.37;http://www.minecraftforum.net/topic/909223
+Essential Craft 3;4.6.1710.63;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2286105-1-7-10-forge-open-source-dummythinking-mods
+Essential Thaumaturgy;1.1.1710.0;
+Expanded Redstone;1.0;http://server.techjargaming.com/Reika/versions
+Extra Cells 2;2.3.14;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x
+Forge Essentials;1.4.5;https://github.com/ForgeEssentials/ForgeEssentials
+GenDustry;1.6.3.132;bdew.net/mods/
+GregTech;MC1710;
+Nuclear Control;1.7.10.08;http://modstats.org/
+Immersive Integration;0.6.8;https://github.com/UnwrittenFun/ImmersiveIntegration
+Inventory Pets;1.4.9;
+Inventory Tweaks;1.59-dev-152-cf6e263;https://github.com/Kobata/inventory-tweaks
+Iron Chest;6.0.60.741;http://www.minecraftforum.net/topic/981855-
+JABBA;1.2.2;http://mobiusstrip.eu/wiki/Jabba
+Matter Overdrive;0.4.2;https://mo.simeonradivoev.com/
+MekanismGenerators;9.1.0;
+MekanismTools;9.1.0;
+MineTweaker 3;3.0.10;http://minetweaker3.powerofbytes.com
+Morpheus;1.7.10-1.6.21;http://www.curse.com/mc-mods/Minecraft/morpheus
+NEI Addons;1.12.14.40;bdew.net/neiaddons
+NEI Addons: Developer Tools;1.12.14.40;
+NEI Addons: Applied Energistics 2;1.12.14.40;
+NEI Addons: Botany;1.12.14.40;
+NEI Addons: Forestry;1.12.14.40;http://bdew.net/neiaddons/
+NEI Addons: Crafting Tables;1.12.14.40;http://bdew.net/neiaddons/
+NEI Addons: Ex Nihilo;1.12.14.40;http://bdew.net/neiaddons/
+NEI Integration;1.1.2;
+Omni Ocular;1.7.10-1.0build103;http://exz.me
+OpenMods;0.9.1;http://openmods.info/
+OpenBlocks;1.5.1;http://www.openperipheral.info
+OpenComputers;1.6.1.11;http://oc.cil.li/
+MapWriter;2.1.2;
+Opis;1.2.5;
+p455w0rd's Library;1.0.4;
+Plant Growth Accelerator;1.0.4;
+Random Things;2.2.4;http://minecraft.curseforge.com/mc-mods/59816-random-things
+ReactorCraft;1.0;http://server.techjargaming.com/Reika/versions
+RFTools;4.23;
+Router Reborn;1.2.0.43;
+Steve's Factory Manager;A93;
+Storage Drawers;1.7.10-1.10.0;http://www.jaquadro.com/
+Thaumic Tinkerer;unspecified;minecraftforum.net/topic/1813058-
+Tainted Magic;r7.6;http://bitly.com/1HV2VSK
+TC Inventory Scanning;1.0.11;
+Thaumcraft Minus Thaumcraft;1.7.10-1.1;http://www.minecraftforum.net/topic/2305054-/
+Thaumcraft NEI Plugin;@VERSION@;
+Thaumic Bases;1.3.1710.2;
+Thaumic Energistics;1.0.0.5;http://minecraft.curseforge.com/projects/thaumic-energistics
+Thaumic Horizons;1.1.9;
+Tinkers Construct Auto Tool Station;1.1.2;
+Tinkers' Mechworks;0.2.15.106;
+Translocator;1.1.2.16;http://www.minecraftforum.net/topic/909223
+Vein Miner;0.35.2_1.7.10-e134bd4;http://minecraft.curseforge.com/mc-mods/veinminer/
+Mod Support;0.35.2_1.7.10-e134bd4;http://minecraft.curseforge.com/mc-mods/veinminer/
+Waila Harvestability;1.1.6;
+WAILA Plugins;MC1.7.10-0.2.0-25;http://ci.tterrag.com/job/WAILAPlugins/
+What Are We Looking At;1.3.1;http://www.darkhax.net/wawla.html
+AE2 Wireless Crafting Terminal;1.7.10-rv3-1.8.7.4b;http://p455w0rd.net/
+Witchery;0.24.1;http://sites.google.com/site/witcherymod/
+WorldEdit;6.1.1-SNAPSHOT;
+bspkrsCore;6.15;http://www.minecraftforum.net/topic/1114612-/
+Minecraft Multipart Plugin;1.2.0.345;https://github.com/Chicken-Bones/ForgeMultipart
+Another One Bites The Dust;2.9.2;
+Iguana Tinker Tweaks;1.7.10-2.1.6.163;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855
+UniDict;1.7.10-2.9.2;http://minecraft.curseforge.com/projects/unidict
+Forge Microblocks;1.2.0.345;https://github.com/Chicken-Bones/ForgeMultipart
