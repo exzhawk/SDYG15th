@@ -4,11 +4,11 @@
 > MOD更变
 > > ↑ gregtech-5.09.27
 > >
-> > Aroma1997Core
+> > + Aroma1997Core
 > >
-> > Aroma1997s-Dimensional-World
+> > + Aroma1997s-Dimensional-World
 > >
-> > NBTEdit
+> > + NBTEdit
 
 #### =======2017.02.19========
 > 关闭GT对超能物质/运算工艺的辞典转换
