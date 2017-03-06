@@ -4,13 +4,13 @@
 > MOD更变
 > > ↑ gregtech-5.09.27
 > >
-> > + Aroma1997Core
+> > ＋ Aroma1997Core
 > >
-> > + Aroma1997s-Dimensional-World
+> > ＋ Aroma1997s-Dimensional-World
 > >
-> > + NBTEdit
+> > ＋ NBTEdit
 > >
-> > - UniDict
+> > － UniDict
 
 #### =======2017.02.19========
 > 关闭GT对超能物质/运算工艺的辞典转换
@@ -20,7 +20,7 @@
 > > ~~是技术性调整，不要慌~~
 > 
 > MOD更变
-> > + MobiusCore (the dependency of OPIS)
+> > ＋ MobiusCore (the dependency of OPIS)
  
 #### =======2017.02.16========
 > 服务器正式开放啦！
@@ -34,4 +34,4 @@
 > > 关掉TIC关于死亡保留饥饿的选项
 > 
 > MOD更变
-> > + ForgeEssentials
+> > ＋ ForgeEssentials
